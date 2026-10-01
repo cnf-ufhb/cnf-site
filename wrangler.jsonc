@@ -1,0 +1,9 @@
+{
+  // Configuration Cloudflare du site du Centre National de Floristique.
+  // Le contenu publié est celui du dossier "public".
+  "name": "cnf-site",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
