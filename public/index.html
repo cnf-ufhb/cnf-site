@@ -40,7 +40,9 @@
 
   .hero{background:linear-gradient(155deg, var(--mint-800), var(--mint-500)); color:#eafbf0; padding:80px 0 64px;}
   .hero .wrap{display:grid; gap:20px; max-width:760px;}
-  .eyebrow{font-size:.8rem; letter-spacing:.14em; text-transform:uppercase; color:var(--gold-100); font-weight:600;}
+  .eyebrow{font-size:.8rem; letter-spacing:.14em; text-transform:uppercase; color:#8a6516; font-weight:600;}
+  .hero .eyebrow{color:var(--gold-100);}
+  section[id]{scroll-margin-top:72px;}
   .hero h1{font-size:2.5rem; color:#fff; line-height:1.15;}
   .hero p.lead{color:#e2f6e8; font-size:1.05rem; max-width:620px;}
   .hero-actions{display:flex; gap:14px; flex-wrap:wrap; margin-top:8px;}
@@ -102,8 +104,8 @@
   .note-officielle{background:#241b05; color:var(--gold-100); font-size:.78rem; text-align:center; padding:10px 16px;}
 
   @media (max-width:820px){
-    .nav ul{position:fixed; inset:64px 0 auto 0; background:var(--cream); flex-direction:column; padding:20px 24px; gap:16px; transform:translateY(-120%); transition:transform .25s ease; box-shadow:0 8px 20px rgba(0,0,0,.08);}
-    #nav-toggle:checked ~ .wrap .nav ul{transform:translateY(0);}
+    .nav ul{position:absolute; top:100%; left:0; right:0; background:var(--cream); flex-direction:column; padding:20px 24px; gap:16px; display:none; box-shadow:0 8px 20px rgba(0,0,0,.08); border-bottom:1px solid rgba(22,77,44,.12);}
+    #nav-toggle:checked ~ .nav ul{display:flex;}
     .burger{display:flex;}
     .mission-grid, .contact-grid, .equipe-grid{grid-template-columns:1fr;}
     .equipe-grid{direction:ltr;}
@@ -276,3 +278,5 @@
       <span>Réalisation : Ferme Agricole de Fadak</span>
     </div>
   </footer>
+
+  <script>document.querySelectorAll('.nav a').forEach(function(a){a.addEventListener('click',function(){document.getElementById('nav-toggle').checked=false;});});</script>
