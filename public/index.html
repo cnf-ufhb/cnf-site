@@ -90,7 +90,10 @@
   .fiche-direction .item.with-photo{display:flex; gap:16px; align-items:flex-start;}
   .fiche-direction .item.with-photo img{width:76px; height:76px; border-radius:50%; object-fit:cover; flex-shrink:0; box-shadow:0 2px 8px rgba(22,77,44,.18);}
   .fiche-direction .item.with-photo .txt{flex:1;}
-  .directrice{grid-column:1/-1; background:#fff; border-radius:16px; box-shadow:0 8px 24px rgba(22,77,44,.10); display:grid; grid-template-columns:260px 1fr; overflow:hidden;}
+  .fiche-direction .voir{display:inline-block; margin-top:6px; font-size:.85rem; font-weight:600; color:var(--mint-700); border-bottom:1px solid rgba(31,110,64,.3);}
+  .fiche-direction .voir:hover{color:var(--gold-600);}
+  .initiales{width:96px; height:96px; border-radius:50%; flex-shrink:0; background:var(--mint-100); color:var(--mint-700); font-family:'Lora',serif; font-weight:700; font-size:1.7rem; display:flex; align-items:center; justify-content:center;}
+  .directrice{margin-top:24px; background:#fff; border-radius:16px; box-shadow:0 8px 24px rgba(22,77,44,.10); display:grid; grid-template-columns:260px 1fr; overflow:hidden;}
   .directrice > img{width:100%; aspect-ratio:370/470; object-fit:cover; object-position:center top; align-self:start;}
   .directrice .contenu{padding:30px 34px; display:grid; gap:14px;}
   .directrice .role{color:var(--gold-600); font-weight:600; font-size:.92rem;}
@@ -276,6 +279,14 @@
         <p class="eyebrow">Direction &amp; histoire</p>
         <h2>Une équipe au service de la flore ivoirienne</h2>
         <div class="fiche-direction" style="margin-top:18px;">
+          <div class="item with-photo">
+            <img src="/img/tiebre-marie-solange.jpg" alt="Professeure Tiébré Marie-Solange épouse Rensonnet">
+            <div class="txt">
+              <strong>Professeure Tiébré Marie-Solange épouse Rensonnet</strong>
+              <span>Professeure titulaire de Botanique, Directrice du Centre National de Floristique — UFR Biosciences, Université Félix Houphouët-Boigny.</span>
+              <a class="voir" href="#directrice">Lire sa présentation complète ↓</a>
+            </div>
+          </div>
           <div class="item">
             <strong>Professeur Laurent Aké Assi (1931–2014)</strong>
             <span>Fondateur et premier conservateur de l'Herbier National du CNF</span>
@@ -285,6 +296,70 @@
             <span>Professeure titulaire de Botanique, Directrice du Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — UFR Biosciences</span>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="chercheurs" id="chercheurs">
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">Notre équipe</p>
+        <h2>Nos chercheurs</h2>
+        <p>Les chercheurs du Centre National de Floristique, leurs spécialités et leurs travaux.</p>
+      </div>
+      <div class="cherch-grid">
+        <article class="cherch">
+          <div class="cherch-top">
+            <img src="/img/yao-konan.jpg" alt="Dr Yao Konan" loading="lazy">
+            <div>
+              <h3>Dr YAO Konan</h3>
+              <p class="grade">Chargé de recherche — Chercheur</p>
+              <p class="labo">Laboratoire de Systématique, Herbier et Musée Botanique (LSHMB) — Axe 2 : Ethnobotanique et valorisation des substances végétales bioactives</p>
+            </div>
+          </div>
+          <ul class="tags"><li>Ethnobotanique</li><li>Systématique</li></ul>
+          <p class="bio">Botaniste systématicien et ethnobotaniste, Yao Konan est chercheur au Centre National de Floristique (CNF) de l'Université Félix Houphouët-Boigny. Spécialiste de la flore ivoirienne, il intervient dans l'identification et la systématique des espèces végétales, les inventaires floristiques et la conservation de la biodiversité. Il possède une solide expérience en gestion d'herbiers, jardins botaniques et aires protégées. Ses travaux portent également sur l'ethnobotanique, les plantes médicinales, les espèces rares et menacées ainsi que les ressources végétales utiles. Il intervient régulièrement comme expert botaniste dans des projets de recherche, de conservation et d'évaluation environnementale.</p>
+          <details>
+            <summary>Publications principales</summary>
+            <ul>
+                <li>Konan, Y., Madoué, K., Faustine, K. A. &amp; Ablan, A. A. E. (2025). Diversity and socio-economic aspects of toothpicks plant species in Abidjan district markets (Côte d'Ivoire, Africa). <em>Revue Internationale de la Recherche Scientifique (Revue-IRS)</em>, 3(1), 632-642.</li>
+                <li>Tapily, D. D. B., Yao, K. <em>et al.</em> (2024). Phytodiversity of species used to prepare “Tchonron” sauce, a cultural dish of the Senoufo people, Northern Côte d'Ivoire. <em>International Journal on Food, Agriculture and Natural Resources</em>, 5(3), 13-20.</li>
+                <li>Ouattara, A., Yao, K., Komoe, K., Kpan, W. B., Kone, M. W., Ouattara, D. &amp; Toure, S. (2022). Teneur en composés phénoliques et activités antioxydantes de <em>Sargassum fluitans</em> et <em>Sargassum natans</em>, deux algues brunes invasives des côtes ivoiriennes. <em>European Scientific Journal</em>, 18(33), 313.</li>
+            </ul>
+          </details>
+          <div class="liens"><a href="https://orcid.org/0000-0002-3093-4678" target="_blank" rel="noopener">ORCID</a><a href="https://www.researchgate.net/profile/Konan-Yao" target="_blank" rel="noopener">ResearchGate</a><a href="mailto:yao83konan@gmail.com">yao83konan@gmail.com</a></div>
+        </article>
+        <article class="cherch">
+          <div class="cherch-top">
+            <img src="/img/yao-nguessan-olivier.jpg" alt="Dr Yao N'Guessan Olivier" loading="lazy">
+            <div>
+              <h3>Dr YAO N'Guessan Olivier</h3>
+              <p class="grade">Chargé de recherche — Chercheur</p>
+              <p class="labo">Laboratoire de Systématique, Herbier et Musée Botanique (LSHMB) — Orientation stratégique : Biodiversité et services écosystémiques</p>
+            </div>
+          </div>
+          <ul class="tags"><li>Écologie forestière</li><li>Systématique</li><li>SIG et télédétection</li><li>Agroforesterie</li><li>Ethnobotanique</li></ul>
+          <p class="bio">Docteur en Systématique, Écologie et Biodiversité Végétale, Dr YAO N'Guessan Olivier est Chargé de recherche au Centre National de Floristique de l'Université Félix Houphouët-Boigny. Il est également Responsable de la stratégie de conservation de la biodiversité à l'ONG IDEF. Spécialiste des études d'impact environnemental et social, des inventaires floristiques et de la conservation de la biodiversité, il a mené plus de 55 missions d'expertise pour la Banque Mondiale, la BAD, le PNUD ainsi que des sociétés minières et énergétiques.</p>
+          <details>
+            <summary>Publications principales</summary>
+            <ul>
+                <li>Yao, N. O., Gouli, G. Z. R., N'Guessan, A. E., Sangare, M. &amp; N'Guessan, K. E. (2023). Discrimination et caractérisation des stades de la reconstitution post-culturale : cas du secteur sub-soudanais ivoirien, Département de Dianra, Nord-Ouest de la Côte d'Ivoire. <em>International Journal of Innovation and Applied Studies</em>.</li>
+                <li>Zaouri, J.-M. G. B., Yao, O. N., Soro, K. &amp; Soro, D. (2022). Diversité végétale de la Forêt Classée de Yaya au Sud-Est de la Côte d'Ivoire. <em>International Journal of Biological and Chemical Sciences</em>.</li>
+                <li>N'Guessan, A. E., N'dja, J. K., Yao, O. N., Amani, B. H. K., Gouli, R. G. Z., Piponiot, C., Zo-Bi, I. C. &amp; Hérault, B. (2018). Drivers of biomass recovery in a secondary forested landscape of West Africa. <em>Forest Ecology and Management</em>.</li>
+            </ul>
+          </details>
+          <div class="liens"><a href="https://orcid.org/0009-0002-6107-2879" target="_blank" rel="noopener">ORCID</a><a href="mailto:olivieryao82@yahoo.fr">olivieryao82@yahoo.fr</a></div>
+        </article>
+        <article class="cherch">
+          <div class="cherch-top">
+            <div class="initiales" aria-hidden="true">EA</div>
+            <div>
+              <h3>Professeure Aké-Assi Emma épouse Kouassi</h3>
+              <p class="grade">Professeure titulaire de Botanique</p>
+              <p class="labo">Directrice du Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — UFR Biosciences</p>
+            </div>
+          </div>
+        </article>
       </div>
       <article class="directrice" id="directrice">
         <img src="/img/tiebre-marie-solange-portrait.jpg" alt="Professeure Tiébré Marie-Solange épouse Rensonnet">
@@ -343,60 +418,6 @@
           <div class="liens"><a href="https://scholar.google.com/citations?user=Qr5cWjYAAAAJ&amp;hl=fr" target="_blank" rel="noopener">Google Scholar</a><a href="https://orcid.org/0000-0003-3640-5950" target="_blank" rel="noopener">ORCID</a><a href="mailto:tiebrems@hotmail.com">tiebrems@hotmail.com</a></div>
         </div>
       </article>
-    </div>
-  </section>
-
-  <section class="chercheurs" id="chercheurs">
-    <div class="wrap">
-      <div class="section-head">
-        <p class="eyebrow">Notre équipe</p>
-        <h2>Nos chercheurs</h2>
-        <p>Les chercheurs du Centre National de Floristique, leurs spécialités et leurs travaux.</p>
-      </div>
-      <div class="cherch-grid">
-        <article class="cherch">
-          <div class="cherch-top">
-            <img src="/img/yao-konan.jpg" alt="Dr Yao Konan" loading="lazy">
-            <div>
-              <h3>Dr YAO Konan</h3>
-              <p class="grade">Chargé de recherche — Chercheur</p>
-              <p class="labo">Laboratoire de Systématique, Herbier et Musée Botanique (LSHMB) — Axe 2 : Ethnobotanique et valorisation des substances végétales bioactives</p>
-            </div>
-          </div>
-          <ul class="tags"><li>Ethnobotanique</li><li>Systématique</li></ul>
-          <p class="bio">Botaniste systématicien et ethnobotaniste, Yao Konan est chercheur au Centre National de Floristique (CNF) de l'Université Félix Houphouët-Boigny. Spécialiste de la flore ivoirienne, il intervient dans l'identification et la systématique des espèces végétales, les inventaires floristiques et la conservation de la biodiversité. Il possède une solide expérience en gestion d'herbiers, jardins botaniques et aires protégées. Ses travaux portent également sur l'ethnobotanique, les plantes médicinales, les espèces rares et menacées ainsi que les ressources végétales utiles. Il intervient régulièrement comme expert botaniste dans des projets de recherche, de conservation et d'évaluation environnementale.</p>
-          <details>
-            <summary>Publications principales</summary>
-            <ul>
-                <li>Konan, Y., Madoué, K., Faustine, K. A. &amp; Ablan, A. A. E. (2025). Diversity and socio-economic aspects of toothpicks plant species in Abidjan district markets (Côte d'Ivoire, Africa). <em>Revue Internationale de la Recherche Scientifique (Revue-IRS)</em>, 3(1), 632-642.</li>
-                <li>Tapily, D. D. B., Yao, K. <em>et al.</em> (2024). Phytodiversity of species used to prepare “Tchonron” sauce, a cultural dish of the Senoufo people, Northern Côte d'Ivoire. <em>International Journal on Food, Agriculture and Natural Resources</em>, 5(3), 13-20.</li>
-                <li>Ouattara, A., Yao, K., Komoe, K., Kpan, W. B., Kone, M. W., Ouattara, D. &amp; Toure, S. (2022). Teneur en composés phénoliques et activités antioxydantes de <em>Sargassum fluitans</em> et <em>Sargassum natans</em>, deux algues brunes invasives des côtes ivoiriennes. <em>European Scientific Journal</em>, 18(33), 313.</li>
-            </ul>
-          </details>
-          <div class="liens"><a href="https://orcid.org/0000-0002-3093-4678" target="_blank" rel="noopener">ORCID</a><a href="https://www.researchgate.net/profile/Konan-Yao" target="_blank" rel="noopener">ResearchGate</a><a href="mailto:yao83konan@gmail.com">yao83konan@gmail.com</a></div>
-        </article>
-        <article class="cherch">
-          <div class="cherch-top">
-            <img src="/img/yao-nguessan-olivier.jpg" alt="Dr Yao N'Guessan Olivier" loading="lazy">
-            <div>
-              <h3>Dr YAO N'Guessan Olivier</h3>
-              <p class="grade">Chargé de recherche — Chercheur</p>
-              <p class="labo">Laboratoire de Systématique, Herbier et Musée Botanique (LSHMB) — Orientation stratégique : Biodiversité et services écosystémiques</p>
-            </div>
-          </div>
-          <ul class="tags"><li>Écologie forestière</li><li>Systématique</li><li>SIG et télédétection</li><li>Agroforesterie</li><li>Ethnobotanique</li></ul>
-          <p class="bio">Docteur en Systématique, Écologie et Biodiversité Végétale, Dr YAO N'Guessan Olivier est Chargé de recherche au Centre National de Floristique de l'Université Félix Houphouët-Boigny. Il est également Responsable de la stratégie de conservation de la biodiversité à l'ONG IDEF. Spécialiste des études d'impact environnemental et social, des inventaires floristiques et de la conservation de la biodiversité, il a mené plus de 55 missions d'expertise pour la Banque Mondiale, la BAD, le PNUD ainsi que des sociétés minières et énergétiques.</p>
-          <details>
-            <summary>Publications principales</summary>
-            <ul>
-                <li>Yao, N. O., Gouli, G. Z. R., N'Guessan, A. E., Sangare, M. &amp; N'Guessan, K. E. (2023). Discrimination et caractérisation des stades de la reconstitution post-culturale : cas du secteur sub-soudanais ivoirien, Département de Dianra, Nord-Ouest de la Côte d'Ivoire. <em>International Journal of Innovation and Applied Studies</em>.</li>
-                <li>Zaouri, J.-M. G. B., Yao, O. N., Soro, K. &amp; Soro, D. (2022). Diversité végétale de la Forêt Classée de Yaya au Sud-Est de la Côte d'Ivoire. <em>International Journal of Biological and Chemical Sciences</em>.</li>
-                <li>N'Guessan, A. E., N'dja, J. K., Yao, O. N., Amani, B. H. K., Gouli, R. G. Z., Piponiot, C., Zo-Bi, I. C. &amp; Hérault, B. (2018). Drivers of biomass recovery in a secondary forested landscape of West Africa. <em>Forest Ecology and Management</em>.</li>
-            </ul>
-          </details>
-          <div class="liens"><a href="https://orcid.org/0009-0002-6107-2879" target="_blank" rel="noopener">ORCID</a><a href="mailto:olivieryao82@yahoo.fr">olivieryao82@yahoo.fr</a></div>
-        </article>
-      </div>
     </div>
   </section>
 
@@ -474,9 +495,9 @@
       </div>
       <h3>Institutions et partenaires nationaux</h3>
       <div class="logos">
+          <figure><img src="/img/partenaires/mesrs.png" alt="Ministère de l'Enseignement Supérieur et de la Recherche Scientifique" loading="lazy"><figcaption>Ministère de l'Enseignement Supérieur et de la Recherche Scientifique</figcaption></figure>
           <figure><img src="/img/partenaires/ufhb.png" alt="Université Félix Houphouët-Boigny" loading="lazy"><figcaption>Université Félix Houphouët-Boigny</figcaption></figure>
           <figure><img src="/img/partenaires/ufr-biosciences.png" alt="UFR Biosciences" loading="lazy"><figcaption>UFR Biosciences</figcaption></figure>
-          <figure><img src="/img/partenaires/mesrs.png" alt="Ministère de l'Enseignement Supérieur et de la Recherche Scientifique" loading="lazy"><figcaption>Ministère de l'Enseignement Supérieur et de la Recherche Scientifique</figcaption></figure>
           <figure><img src="/img/partenaires/minedd.png" alt="Ministère de l'Environnement et du Développement Durable" loading="lazy"><figcaption>Ministère de l'Environnement et du Développement Durable</figcaption></figure>
           <figure><img src="/img/partenaires/district-abidjan.png" alt="District Autonome d'Abidjan" loading="lazy"><figcaption>District Autonome d'Abidjan</figcaption></figure>
           <figure><img src="/img/partenaires/fonsti.png" alt="FONSTI — Fonds pour la Science, la Technologie et l'Innovation" loading="lazy"><figcaption>FONSTI — Fonds pour la Science, la Technologie et l'Innovation</figcaption></figure>

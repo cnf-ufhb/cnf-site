@@ -202,6 +202,14 @@
     {
       "fr": "Professeure titulaire de Botanique, Directrice du Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — UFR Biosciences",
       "en": "Full Professor of Botany, Director of the Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Faculty of Biosciences"
+    },
+    {
+      "fr": "<span>Professeure titulaire de Botanique, Directrice du Centre National de Floristique — UFR Biosciences, Université Félix Houphouët-Boigny.</span>",
+      "en": "<span>Full Professor of Botany, Director of the Centre National de Floristique — Faculty of Biosciences, Félix Houphouët-Boigny University.</span>"
+    },
+    {
+      "fr": "Lire sa présentation complète ↓",
+      "en": "Read her full profile ↓"
     }
   ],
   "chercheurs": [
@@ -260,6 +268,14 @@
     {
       "fr": "Docteur en Systématique, Écologie et Biodiversité Végétale, Dr YAO N'Guessan Olivier est Chargé de recherche au Centre National de Floristique de l'Université Félix Houphouët-Boigny. Il est également Responsable de la stratégie de conservation de la biodiversité à l'ONG IDEF. Spécialiste des études d'impact environnemental et social, des inventaires floristiques et de la conservation de la biodiversité, il a mené plus de 55 missions d'expertise pour la Banque Mondiale, la BAD, le PNUD ainsi que des sociétés minières et énergétiques.",
       "en": "Holding a PhD in Plant Systematics, Ecology and Biodiversity, Dr YAO N'Guessan Olivier is a Research Fellow at the Centre National de Floristique of Félix Houphouët-Boigny University. He is also Head of Biodiversity Conservation Strategy at the NGO IDEF. A specialist in environmental and social impact assessment, floristic inventories and biodiversity conservation, he has carried out more than 55 expert assignments for the World Bank, the African Development Bank (AfDB) and UNDP, as well as for mining and energy companies."
+    },
+    {
+      "fr": "<p class=\"grade\">Professeure titulaire de Botanique</p>",
+      "en": "<p class=\"grade\">Full Professor of Botany</p>"
+    },
+    {
+      "fr": "<p class=\"labo\">Directrice du Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — UFR Biosciences</p>",
+      "en": "<p class=\"labo\">Director of the Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Faculty of Biosciences</p>"
     }
   ],
   "chiffres": [
