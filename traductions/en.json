@@ -336,10 +336,6 @@
       "en": "<summary>Some remarkable species conserved at the CNF</summary>"
     },
     {
-      "fr": "<dt>Éteinte à l'état sauvage</dt>",
-      "en": "<dt>Extinct in the wild</dt>"
-    },
-    {
       "fr": "<dt>Rare</dt>",
       "en": "<dt>Rare</dt>"
     },
@@ -366,6 +362,14 @@
     {
       "fr": "genre <em>Entandrophragma</em>, genre <em>Khaya</em>",
       "en": "genus <em>Entandrophragma</em>, genus <em>Khaya</em>"
+    },
+    {
+      "fr": "<dt>Rare — espèce retrouvée</dt>",
+      "en": "<dt>Rare — rediscovered species</dt>"
+    },
+    {
+      "fr": "</em> : longtemps considérée comme disparue, l'espèce a été retrouvée. Le CNF la requalifie de rare et en conserve des spécimens, dans l'attente de la révision officielle de son statut.",
+      "en": "</em>: long considered extinct, the species has been rediscovered. The CNF reclassifies it as rare and holds specimens of it, pending an official review of its status."
     }
   ],
   "actualites_entete": [
