@@ -92,7 +92,6 @@
   .fiche-direction .item.with-photo .txt{flex:1;}
   .fiche-direction .voir{display:inline-block; margin-top:6px; font-size:.85rem; font-weight:600; color:var(--mint-700); border-bottom:1px solid rgba(31,110,64,.3);}
   .fiche-direction .voir:hover{color:var(--gold-600);}
-  .initiales{width:96px; height:96px; border-radius:50%; flex-shrink:0; background:var(--mint-100); color:var(--mint-700); font-family:'Lora',serif; font-weight:700; font-size:1.7rem; display:flex; align-items:center; justify-content:center;}
   .directrice{margin-top:24px; background:#fff; border-radius:16px; box-shadow:0 8px 24px rgba(22,77,44,.10); display:grid; grid-template-columns:260px 1fr; overflow:hidden;}
   .directrice > img{width:100%; aspect-ratio:370/470; object-fit:cover; object-position:center top; align-self:start;}
   .directrice .contenu{padding:30px 34px; display:grid; gap:14px;}
@@ -287,13 +286,19 @@
               <a class="voir" href="#directrice">Lire sa présentation complète ↓</a>
             </div>
           </div>
-          <div class="item">
-            <strong>Professeur Laurent Aké Assi (1931–2014)</strong>
-            <span>Fondateur et premier conservateur de l'Herbier National du CNF</span>
+          <div class="item with-photo">
+            <img src="/img/ake-assi-laurent.jpg" alt="Professeur Laurent Aké Assi">
+            <div class="txt">
+              <strong>Professeur Laurent Aké Assi (1931–2014)</strong>
+              <span>Fondateur et premier conservateur de l'Herbier National du CNF</span>
+            </div>
           </div>
-          <div class="item">
-            <strong>Professeure Aké-Assi Emma épouse Kouassi</strong>
-            <span>Professeure titulaire de Botanique, Directrice du Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — UFR Biosciences</span>
+          <div class="item with-photo">
+            <img src="/img/ake-assi-emma.jpg" alt="Professeure Aké-Assi Emma épouse Kouassi">
+            <div class="txt">
+              <strong>Professeure Aké-Assi Emma épouse Kouassi</strong>
+              <span>Professeure titulaire de Botanique, Directrice du Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — UFR Biosciences</span>
+            </div>
           </div>
         </div>
       </div>
@@ -352,7 +357,7 @@
         </article>
         <article class="cherch">
           <div class="cherch-top">
-            <div class="initiales" aria-hidden="true">EA</div>
+            <img src="/img/ake-assi-emma.jpg" alt="Professeure Aké-Assi Emma épouse Kouassi" loading="lazy">
             <div>
               <h3>Professeure Aké-Assi Emma épouse Kouassi</h3>
               <p class="grade">Professeure titulaire de Botanique</p>

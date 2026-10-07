@@ -93,7 +93,6 @@
   .fiche-direction .item.with-photo .txt{flex:1;}
   .fiche-direction .voir{display:inline-block; margin-top:6px; font-size:.85rem; font-weight:600; color:var(--mint-700); border-bottom:1px solid rgba(31,110,64,.3);}
   .fiche-direction .voir:hover{color:var(--gold-600);}
-  .initiales{width:96px; height:96px; border-radius:50%; flex-shrink:0; background:var(--mint-100); color:var(--mint-700); font-family:'Lora',serif; font-weight:700; font-size:1.7rem; display:flex; align-items:center; justify-content:center;}
   .directrice{margin-top:24px; background:#fff; border-radius:16px; box-shadow:0 8px 24px rgba(22,77,44,.10); display:grid; grid-template-columns:260px 1fr; overflow:hidden;}
   .directrice > img{width:100%; aspect-ratio:370/470; object-fit:cover; object-position:center top; align-self:start;}
   .directrice .contenu{padding:30px 34px; display:grid; gap:14px;}
@@ -280,13 +279,19 @@
               <a class="voir" href="#directrice">Read her full profile ↓</a>
             </div>
           </div>
-          <div class="item">
-            <strong>Professor Laurent Aké Assi (1931–2014)</strong>
-            <span>Founder and first curator of the CNF's National Herbarium</span>
+          <div class="item with-photo">
+            <img src="/img/ake-assi-laurent.jpg" alt="Professor Laurent Aké Assi">
+            <div class="txt">
+              <strong>Professor Laurent Aké Assi (1931–2014)</strong>
+              <span>Founder and first curator of the CNF's National Herbarium</span>
+            </div>
           </div>
-          <div class="item">
-            <strong>Professor Aké-Assi Emma (married name Kouassi)</strong>
-            <span>Full Professor of Botany, Director of the Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Faculty of Biosciences</span>
+          <div class="item with-photo">
+            <img src="/img/ake-assi-emma.jpg" alt="Professor Aké-Assi Emma (married name Kouassi)">
+            <div class="txt">
+              <strong>Professor Aké-Assi Emma (married name Kouassi)</strong>
+              <span>Full Professor of Botany, Director of the Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Faculty of Biosciences</span>
+            </div>
           </div>
         </div>
       </div>
@@ -345,7 +350,7 @@
         </article>
         <article class="cherch">
           <div class="cherch-top">
-            <div class="initiales" aria-hidden="true">EA</div>
+            <img src="/img/ake-assi-emma.jpg" alt="Professor Aké-Assi Emma (married name Kouassi)" loading="lazy">
             <div>
               <h3>Professor Aké-Assi Emma (married name Kouassi)</h3>
               <p class="grade">Full Professor of Botany</p>
