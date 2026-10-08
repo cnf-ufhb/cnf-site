@@ -396,6 +396,30 @@
     {
       "fr": "<li>SIG</li>",
       "en": "<li>GIS</li>"
+    },
+    {
+      "fr": "<p class=\"grade\">Chargé de recherche — Responsable de la champignonnière, du suivi-évaluation et de la communication</p>",
+      "en": "<p class=\"grade\">Research Fellow (Chargé de recherche) — Head of the mushroom production unit, monitoring &amp; evaluation and communication</p>"
+    },
+    {
+      "fr": "Chargé de recherche au Centre National de Floristique (Université Félix Houphouët-Boigny, Abidjan), Dr YIAN Gouvé Claver travaille sur la myciculture tropicale, l'ethnomycologie et la diversité des macromycètes. Formé à la taxonomie dans le cadre du programme CEBioS, il est membre du Réseau des Mycologues de la Région des Grands Lacs africains (DGD, IRScNB, INECN) depuis 2016, ainsi que de la communauté EFTA (Champignons comestibles d'Afrique tropicale). Il accompagne aussi la formation de producteurs et le développement de filières locales de culture de champignons.",
+      "en": "A Research Fellow at the National Floristic Centre (Félix Houphouët-Boigny University, Abidjan), Dr YIAN Gouvé Claver works on tropical mushroom cultivation, ethnomycology and the diversity of macrofungi. Trained in taxonomy under the CEBioS programme, he has been a member of the Network of Mycologists of the African Great Lakes Region (DGD, RBINS, INECN) since 2016, and of the EFTA community (Edible Fungi of Tropical Africa). He also supports the training of growers and the development of local mushroom-growing value chains."
+    },
+    {
+      "fr": "<li>Systématique des champignons</li>",
+      "en": "<li>Fungal systematics</li>"
+    },
+    {
+      "fr": "<li>Écologie des champignons</li>",
+      "en": "<li>Fungal ecology</li>"
+    },
+    {
+      "fr": "<li>Ethnomycologie</li>",
+      "en": "<li>Ethnomycology</li>"
+    },
+    {
+      "fr": "<li>Culture des champignons</li>",
+      "en": "<li>Mushroom cultivation</li>"
     }
   ],
   "chiffres": [
