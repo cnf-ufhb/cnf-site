@@ -1,0 +1,17 @@
+{
+  "nom": "Dr N'GUESSAN Yao Joachim",
+  "photo": "nguessan-yao-joachim.jpg",
+  "grade": ["Attaché de recherche — Chercheur", "Research Associate (Attaché de recherche)"],
+  "labo": ["Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB)", "Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB)"],
+  "specialites": [["Foresterie", "Forestry"], ["Télédétection", "Remote sensing"], ["SIG", "GIS"]],
+  "presentation": [
+    "Docteur en sciences de la nature, spécialisé en écologie végétale et en télédétection, Dr N'GUESSAN Yao Joachim compte plus de neuf ans d'expérience en recherche botanique, cartographie et évaluation environnementale. Auteur de 10 publications scientifiques indexées, il est impliqué dans des projets nationaux et internationaux (GRET, Cambridge, AIEA, SNV). Ses compétences couvrent les SIG, la modélisation spatiale, les inventaires de biodiversité et l'évaluation d'impact environnemental.",
+    "Holding a PhD in Natural Sciences with a specialisation in plant ecology and remote sensing, Dr N'GUESSAN Yao Joachim has more than nine years of experience in botanical research, mapping and environmental assessment. The author of 10 indexed scientific publications, he is involved in national and international projects (GRET, Cambridge, IAEA, SNV). His expertise covers GIS, spatial modelling, biodiversity inventories and environmental impact assessment."
+  ],
+  "publications": [
+    "N'Guessan, Y. J., Koné, M., Douffi, K. G.-C. &amp; Gnahoré, É. (2019). Impact des intrusions paysannes sur la physionomie et la dynamique de la végétation de la forêt classée de Laouda au Centre-Ouest de la Côte d'Ivoire. <em>European Scientific Journal</em>, 15(24), 360-383.",
+    "N'Guessan, Y. J., Kablan, K. R., Ouattara, N. D., Douffi, K. G.-C., Gnahoré, É. &amp; Koné, M. (2022). Anthropisation et dynamique de l'occupation du sol de la forêt classée de la Sangoué au Centre-Ouest de la Côte d'Ivoire. <em>Afrique SCIENCE</em>, 21(6), 80-91.",
+    "N'Guessan, Y. J., Gueulou, N., Douffi, K. G.-C., Tiébré, M.-S. &amp; Koné, M. (2025). Modelling human impact on land use and land cover in the Téné Protected Forest, Center-West Ivory Coast: past trends (1986-2017) and future prediction (2029). <em>Asian Journal of Environment &amp; Ecology</em>, 24(6), 24-36."
+  ],
+  "liens": [["ORCID", "https://orcid.org/0009-0001-6724-390X"], ["yaojoachimn@yahoo.fr", "mailto:yaojoachimn@yahoo.fr"]]
+}

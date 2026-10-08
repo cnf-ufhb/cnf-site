@@ -376,6 +376,26 @@
     {
       "fr": "<li>Myciculture</li>",
       "en": "<li>Mushroom cultivation</li>"
+    },
+    {
+      "fr": "<p class=\"grade\">Attaché de recherche — Chercheur</p>",
+      "en": "<p class=\"grade\">Research Associate (Attaché de recherche)</p>"
+    },
+    {
+      "fr": "Docteur en sciences de la nature, spécialisé en écologie végétale et en télédétection, Dr N'GUESSAN Yao Joachim compte plus de neuf ans d'expérience en recherche botanique, cartographie et évaluation environnementale. Auteur de 10 publications scientifiques indexées, il est impliqué dans des projets nationaux et internationaux (GRET, Cambridge, AIEA, SNV). Ses compétences couvrent les SIG, la modélisation spatiale, les inventaires de biodiversité et l'évaluation d'impact environnemental.",
+      "en": "Holding a PhD in Natural Sciences with a specialisation in plant ecology and remote sensing, Dr N'GUESSAN Yao Joachim has more than nine years of experience in botanical research, mapping and environmental assessment. The author of 10 indexed scientific publications, he is involved in national and international projects (GRET, Cambridge, IAEA, SNV). His expertise covers GIS, spatial modelling, biodiversity inventories and environmental impact assessment."
+    },
+    {
+      "fr": "<li>Foresterie</li>",
+      "en": "<li>Forestry</li>"
+    },
+    {
+      "fr": "<li>Télédétection</li>",
+      "en": "<li>Remote sensing</li>"
+    },
+    {
+      "fr": "<li>SIG</li>",
+      "en": "<li>GIS</li>"
     }
   ],
   "chiffres": [
