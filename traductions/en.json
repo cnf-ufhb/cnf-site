@@ -360,6 +360,22 @@
     {
       "fr": "<li>Biodiversité</li>",
       "en": "<li>Biodiversity</li>"
+    },
+    {
+      "fr": "<p class=\"grade\">Attachée de recherche — Chercheure</p>",
+      "en": "<p class=\"grade\">Research Associate (Attachée de recherche)</p>"
+    },
+    {
+      "fr": "Mycologue, Dr PITTA Badjo Mireille Stéphanie travaille sur les champignons comestibles. Ses travaux portent sur l'inventaire et la culture des champignons comestibles ainsi que sur la production de milieux de culture, de semences et de sporophores de champignons. Elle a intégré l'équipe de recherche du Centre National de Floristique en octobre 2025.",
+      "en": "A mycologist, Dr PITTA Badjo Mireille Stéphanie works on edible mushrooms. Her research covers the inventory and cultivation of edible mushrooms and the production of culture media, spawn and mushroom fruiting bodies. She joined the research team of the Centre National de Floristique in October 2025."
+    },
+    {
+      "fr": "<li>Mycologie</li>",
+      "en": "<li>Mycology</li>"
+    },
+    {
+      "fr": "<li>Myciculture</li>",
+      "en": "<li>Mushroom cultivation</li>"
     }
   ],
   "chiffres": [
