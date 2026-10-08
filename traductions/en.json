@@ -344,6 +344,22 @@
     {
       "fr": "<li>Écologie végétale</li>",
       "en": "<li>Plant ecology</li>"
+    },
+    {
+      "fr": "<p class=\"grade\">Maître de recherche — Chercheur</p>",
+      "en": "<p class=\"grade\">Senior Research Fellow (Maître de recherche)</p>"
+    },
+    {
+      "fr": "Titulaire d'un Doctorat en Phytopathologie, Dr N'GORAN Koua Serge Béranger est Maître de recherche au Laboratoire des Systématiques, Herbiers et Musée Botanique de l'Université Félix Houphouët-Boigny (UFHB). Il a été membre et coordonnateur de plusieurs projets en phytopathologie et en biodiversité. Impliqué dans diverses activités de recherche, il participe également à la formation des étudiants de master et de doctorat. Il est l'auteur de plus de 20 articles scientifiques.",
+      "en": "Holding a PhD in Plant Pathology, Dr N'GORAN Koua Serge Béranger is a Senior Research Fellow (Maître de recherche) at the Laboratory of Systematics, Herbaria and Botanical Museum of Félix Houphouët-Boigny University (UFHB). He has been a member and coordinator of several projects in plant pathology and biodiversity. Involved in a range of research activities, he also contributes to the training of master's and doctoral students. He has authored more than 20 scientific articles."
+    },
+    {
+      "fr": "<li>Phytopathologie</li>",
+      "en": "<li>Plant pathology</li>"
+    },
+    {
+      "fr": "<li>Biodiversité</li>",
+      "en": "<li>Biodiversity</li>"
     }
   ],
   "chiffres": [
