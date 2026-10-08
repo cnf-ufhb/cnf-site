@@ -21,3 +21,11 @@ Après toute modification de la page française :
     python3 outils/generer_en.py
 
 Si un texte français a changé, le script le signale : mettre à jour la traduction correspondante dans `traductions/en.json`, puis relancer.
+
+## Ajouter un chercheur
+
+1. Recadrer la photo (portrait carré 360 × 360) dans `public/img/`.
+2. Décrire la fiche dans `fiches/<nom>.json` (textes FR et EN — voir le modèle en tête de `outils/ajouter_chercheur.py`).
+3. `python3 outils/ajouter_chercheur.py fiches/<nom>.json` puis `python3 outils/generer_en.py`.
+
+Les fiches préparées mais pas encore publiées attendent sur la branche locale `chercheurs-a-publier` (non envoyée sur GitHub, donc invisible en ligne). Pour publier : `git checkout main && git merge chercheurs-a-publier && git push`.
