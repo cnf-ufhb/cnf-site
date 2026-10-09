@@ -492,6 +492,26 @@
     {
       "fr": "<h3>Dr KOUASSI Akossoua Faustine épouse Koffi</h3>",
       "en": "<h3>Dr KOUASSI Akossoua Faustine (married name Koffi)</h3>"
+    },
+    {
+      "fr": "<p class=\"grade\">Chargé de recherche — Responsable de parcelle thématique</p>",
+      "en": "<p class=\"grade\">Research Fellow (Chargé de recherche) — Head of a thematic plot</p>"
+    },
+    {
+      "fr": "<p class=\"labo\">Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — Biodiversité et services écosystémiques</p>",
+      "en": "<p class=\"labo\">Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Biodiversity and ecosystem services</p>"
+    },
+    {
+      "fr": "Chargé de recherche au Laboratoire des Systématiques, Herbiers et Musée Botanique du Centre National de Floristique (UFR Biosciences, Université Félix Houphouët-Boigny), Dr KOUAMÉ Kra Frédéric est membre de l'équipe de recherche « Biodiversité et services écosystémiques ». Il travaille sur la mise au point de méthodes de lutte intégrée contre les adventices des cultures, ainsi que sur la gestion durable de la biodiversité et des services écosystémiques.",
+      "en": "A Research Fellow at the Laboratory of Systematics, Herbaria and Botanical Museum of the National Floristic Centre (Faculty of Biosciences, Félix Houphouët-Boigny University), Dr KOUAMÉ Kra Frédéric is a member of the “Biodiversity and Ecosystem Services” research team. He works on developing integrated weed management methods for crops, as well as on the sustainable management of biodiversity and ecosystem services."
+    },
+    {
+      "fr": "<li>Botanique</li>",
+      "en": "<li>Botany</li>"
+    },
+    {
+      "fr": "<li>Malherbologie</li>",
+      "en": "<li>Weed science</li>"
     }
   ],
   "chiffres": [
