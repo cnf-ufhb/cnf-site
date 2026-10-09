@@ -1,0 +1,17 @@
+{
+  "nom": "Dr BOLOU Gbouhoury Eric-Kévin",
+  "photo": "bolou-gbouhoury-eric-kevin.jpg",
+  "grade": ["Maître de recherche — Chercheur", "Senior Research Fellow (Maître de recherche)"],
+  "labo": ["Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB)", "Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB)"],
+  "specialites": [["Biochimie", "Biochemistry"], ["Microbiologie", "Microbiology"], ["Pharmacologie", "Pharmacology"], ["Substances naturelles", "Natural products"]],
+  "presentation": [
+    "Chercheur en sciences biologiques et en pharmacopée à base de plantes, Dr BOLOU Gbouhoury Eric-Kévin est rattaché au Centre National de Floristique de l'Université Félix Houphouët-Boigny. Ses recherches portent sur la pharmacopée traditionnelle ivoirienne et les usages médicinaux des plantes, les activités antimicrobiennes et antifongiques des extraits végétaux, la phytochimie et l'étude des composés présents dans les plantes, ainsi que la valorisation scientifique de la flore ivoirienne par la recherche de substances naturelles d'intérêt thérapeutique.",
+    "A researcher in biological sciences and plant-based pharmacopoeia, Dr BOLOU Gbouhoury Eric-Kévin is attached to the Centre National de Floristique of Félix Houphouët-Boigny University. His research covers traditional Ivorian pharmacopoeia and the medicinal uses of plants, the antimicrobial and antifungal activities of plant extracts, phytochemistry and the study of plant compounds, and the scientific valorisation of the Ivorian flora through the search for natural substances of therapeutic interest."
+  ],
+  "publications": [
+    "Bolou, G. E.-K., Tra, B. B. F., Yao, K., Bouagnon, J. J.-R., Lidji, C. J. S. R., N'Guessan, C. D. R., N'Guessan, J. D., Zirihi, G. N. &amp; Djaman, A. J. (2022). Inventory of plants used in the treatment of viral diseases, sold on markets in the district of Abidjan. <em>GSC Biological and Pharmaceutical Sciences</em>, 19(01), 078-090.",
+    "Bamba, A., Bahi, G. A., Bolou, G. E.-K., Kamagate, M. L., Konan, G. K. N. A., Yapi, H. F. &amp; Djaman, A. J. (2026). Effect of drying time on extraction yield and antifungal activity of ginger essential oil (<em>Zingiber officinale</em>, Zingiberaceae). <em>Journal of Pharmacognosy and Phytochemistry</em>, 15(2), 417-420.",
+    "Kouassi, K. G., Bolou, G. E.-K., Konan, G. K. N. A., Yapo, Y. C. V., Aka Any-Grah, A. S. A. &amp; Zirihi, G. N. (2026). Étude ethnobotanique et évaluation in vitro des activités antifongiques des extraits aqueux et hydro-éthanoliques de trois plantes médicinales ivoiriennes sur des germes fongiques responsables de mycoses superficielles en Côte d'Ivoire. <em>International Journal of Innovation and Applied Studies</em>, 48(1), 274-287."
+  ],
+  "liens": [["ORCID", "https://orcid.org/0009-0006-1829-3720"], ["bolou.kevin@ufhb.edu.ci", "mailto:bolou.kevin@ufhb.edu.ci"]]
+}
