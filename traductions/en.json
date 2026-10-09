@@ -196,12 +196,12 @@
       "en": "Founder and first curator of the CNF's National Herbarium"
     },
     {
-      "fr": "Professeure Aké-Assi Emma épouse Kouassi",
-      "en": "Professor Aké-Assi Emma (married name Kouassi)"
+      "fr": "Professeure Aké-Assi Ablan Emma épouse Kouassi",
+      "en": "Professor Aké-Assi Ablan Emma (married name Kouassi)"
     },
     {
-      "fr": "Professeure titulaire de Botanique, Directrice du Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — UFR Biosciences",
-      "en": "Full Professor of Botany, Director of the Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Faculty of Biosciences"
+      "fr": "Professeure titulaire de Botanique, Responsable du Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — UFR Biosciences",
+      "en": "Full Professor of Botany, Head of the Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Faculty of Biosciences"
     },
     {
       "fr": "<span>Professeure titulaire de Botanique, Directrice du Centre National de Floristique — UFR Biosciences, Université Félix Houphouët-Boigny.</span>",
@@ -272,14 +272,6 @@
     {
       "fr": "Docteur en Systématique, Écologie et Biodiversité Végétale, Dr YAO N'Guessan Olivier est Chargé de recherche au Centre National de Floristique de l'Université Félix Houphouët-Boigny. Il est également Responsable de la stratégie de conservation de la biodiversité à l'ONG IDEF. Spécialiste des études d'impact environnemental et social, des inventaires floristiques et de la conservation de la biodiversité, il a mené plus de 55 missions d'expertise pour la Banque Mondiale, la BAD, le PNUD ainsi que des sociétés minières et énergétiques.",
       "en": "Holding a PhD in Plant Systematics, Ecology and Biodiversity, Dr YAO N'Guessan Olivier is a Research Fellow at the Centre National de Floristique of Félix Houphouët-Boigny University. He is also Head of Biodiversity Conservation Strategy at the NGO IDEF. A specialist in environmental and social impact assessment, floristic inventories and biodiversity conservation, he has carried out more than 55 expert assignments for the World Bank, the African Development Bank (AfDB) and UNDP, as well as for mining and energy companies."
-    },
-    {
-      "fr": "<p class=\"grade\">Professeure titulaire de Botanique</p>",
-      "en": "<p class=\"grade\">Full Professor of Botany</p>"
-    },
-    {
-      "fr": "<p class=\"labo\">Directrice du Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — UFR Biosciences</p>",
-      "en": "<p class=\"labo\">Director of the Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Faculty of Biosciences</p>"
     },
     {
       "fr": "<p class=\"grade\">Chargée de recherche — Chercheure</p>",
@@ -420,6 +412,38 @@
     {
       "fr": "<li>Culture des champignons</li>",
       "en": "<li>Mushroom cultivation</li>"
+    },
+    {
+      "fr": "<p class=\"grade\">Professeure titulaire de Botanique (CAMES) — Chercheure associée</p>",
+      "en": "<p class=\"grade\">Full Professor of Botany (CAMES) — Associate Researcher</p>"
+    },
+    {
+      "fr": "<p class=\"labo\">Responsable du Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — UFR Biosciences</p>",
+      "en": "<p class=\"labo\">Head of the Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Faculty of Biosciences</p>"
+    },
+    {
+      "fr": "Professeure titulaire des universités du CAMES en Botanique (spécialité : ethnobotanique-ethnopharmacologie), ses recherches portent principalement sur la flore ornementale ivoirienne et, plus largement, africaine. Elle s'intéresse également aux plantes alimentaires de cueillette, aux plantes médicinales et aux espèces végétales présentant d'autres intérêts pour les populations.",
+      "en": "A Full Professor of Botany in the CAMES universities (specialising in ethnobotany and ethnopharmacology), her research focuses mainly on the ornamental flora of Côte d'Ivoire and, more broadly, of Africa. She is also interested in wild-harvested food plants, medicinal plants and plant species of other value to local communities."
+    },
+    {
+      "fr": "Dans le domaine de la conservation de la biodiversité, elle mène des essais de domestication d'espèces ornementales issues de la flore spontanée, dans une perspective de sauvegarde et de valorisation durable. Elle s'investit également dans la valorisation des collections d'herbiers, outils essentiels à la connaissance, à l'étude et à la conservation de la diversité végétale.",
+      "en": "In the field of biodiversity conservation, she conducts domestication trials of ornamental species from the wild flora, with a view to their protection and sustainable use. She is also committed to promoting herbarium collections, which are essential tools for knowing, studying and conserving plant diversity."
+    },
+    {
+      "fr": "Chercheure associée au Centre National de Floristique (CNF), elle est responsable du Laboratoire des Systématiques, Herbiers et Musée Botanique et dirige l'Unité Pédagogique de Recherche consacrée aux interactions entre environnement, société et développement durable. Dans ce cadre, elle initie et coordonne des activités d'éducation environnementale destinées aux populations, afin de promouvoir une meilleure connaissance du patrimoine végétal et d'encourager sa gestion durable.",
+      "en": "An associate researcher at the National Floristic Centre (CNF), she heads the Laboratory of Systematics, Herbaria and Botanical Museum and leads the Teaching and Research Unit devoted to the interactions between environment, society and sustainable development. In this capacity, she initiates and coordinates environmental education activities for local communities, to promote a better knowledge of plant heritage and encourage its sustainable management."
+    },
+    {
+      "fr": "Parallèlement à ses activités universitaires, elle dirige l'Institut Botanique Aké-Assi d'Andokoi (IBAAN), une fondation engagée dans la sauvegarde de la flore africaine, en particulier ivoirienne, à travers la valorisation et la pérennisation des travaux de recherche du Professeur Aké-Assi Laurent.",
+      "en": "Alongside her university work, she directs the Aké-Assi Botanical Institute of Andokoi (IBAAN), a foundation dedicated to safeguarding the African flora, particularly that of Côte d'Ivoire, by promoting and perpetuating the research of Professor Laurent Aké-Assi."
+    },
+    {
+      "fr": "<li>Botanique générale</li>",
+      "en": "<li>General botany</li>"
+    },
+    {
+      "fr": "<li>Floristique</li>",
+      "en": "<li>Floristics</li>"
     }
   ],
   "chiffres": [
