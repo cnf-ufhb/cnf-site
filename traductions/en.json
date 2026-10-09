@@ -456,6 +456,42 @@
     {
       "fr": "<li>Substances naturelles</li>",
       "en": "<li>Natural products</li>"
+    },
+    {
+      "fr": "<p class=\"grade\">Maître de recherche — Chercheure, Responsable de l'organisation</p>",
+      "en": "<p class=\"grade\">Senior Research Fellow (Maître de recherche) — in charge of organisation</p>"
+    },
+    {
+      "fr": "<p class=\"labo\">Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — Équipe Biodiversité et services écosystémiques</p>",
+      "en": "<p class=\"labo\">Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Biodiversity and Ecosystem Services research team</p>"
+    },
+    {
+      "fr": "Spécialiste de l'élevage urbain et de l'agriculture durable, Dr KOUASSI Akossoua Faustine épouse Koffi met son expertise au service de la sécurité alimentaire, grâce à sa maîtrise de la nutrition animale et des stratégies d'alimentation optimisées pour le bétail. Son approche intègre la gestion, l'exploitation et la préservation des surfaces herbacées utilisées pour l'alimentation du bétail, afin de valoriser au mieux la ressource fourragère naturelle tout en protégeant les écosystèmes.",
+      "en": "A specialist in urban livestock farming and sustainable agriculture, Dr KOUASSI Akossoua Faustine (married name Koffi) applies her expertise to food security, drawing on her command of animal nutrition and optimised livestock feeding strategies. Her approach combines the management, use and conservation of the grasslands used to feed livestock, in order to make the most of natural forage resources while protecting ecosystems."
+    },
+    {
+      "fr": "<li>Agrostologie</li>",
+      "en": "<li>Agrostology</li>"
+    },
+    {
+      "fr": "<li>Agriculture durable</li>",
+      "en": "<li>Sustainable agriculture</li>"
+    },
+    {
+      "fr": "<li>Élevage urbain</li>",
+      "en": "<li>Urban livestock farming</li>"
+    },
+    {
+      "fr": "<li>Nutrition animale</li>",
+      "en": "<li>Animal nutrition</li>"
+    },
+    {
+      "fr": "alt=\"Dr KOUASSI Akossoua Faustine épouse Koffi\"",
+      "en": "alt=\"Dr KOUASSI Akossoua Faustine (married name Koffi)\""
+    },
+    {
+      "fr": "<h3>Dr KOUASSI Akossoua Faustine épouse Koffi</h3>",
+      "en": "<h3>Dr KOUASSI Akossoua Faustine (married name Koffi)</h3>"
     }
   ],
   "chiffres": [
