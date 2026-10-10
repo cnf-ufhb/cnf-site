@@ -2,16 +2,45 @@
   "nom": "Dr KOUAMÉ Kra Frédéric",
   "photo": "kouame-kra-frederic.jpg",
   "initiales": "KF",
-  "grade": ["Chargé de recherche — Responsable de parcelle thématique", "Research Fellow (Chargé de recherche) — Head of a thematic plot"],
-  "labo": ["Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — Biodiversité et services écosystémiques", "Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Biodiversity and ecosystem services"],
-  "specialites": [["Botanique", "Botany"], ["Écologie végétale", "Plant ecology"], ["Malherbologie", "Weed science"]],
+  "grade": [
+    "Chargé de recherche — Responsable de parcelle thématique",
+    "Research Fellow (Chargé de recherche) — Head of a thematic plot"
+  ],
+  "labo": [
+    "Laboratoire des Systématiques, Herbiers et Musée Botanique (LSHMB) — Biodiversité et services écosystémiques",
+    "Laboratory of Systematics, Herbaria and Botanical Museum (LSHMB) — Biodiversity and ecosystem services"
+  ],
+  "specialites": [
+    [
+      "Botanique",
+      "Botany"
+    ],
+    [
+      "Écologie végétale",
+      "Plant ecology"
+    ],
+    [
+      "Malherbologie",
+      "Weed science"
+    ]
+  ],
   "presentation": [
     "Chargé de recherche au Laboratoire des Systématiques, Herbiers et Musée Botanique du Centre National de Floristique (UFR Biosciences, Université Félix Houphouët-Boigny), Dr KOUAMÉ Kra Frédéric est membre de l'équipe de recherche « Biodiversité et services écosystémiques ». Il travaille sur la mise au point de méthodes de lutte intégrée contre les adventices des cultures, ainsi que sur la gestion durable de la biodiversité et des services écosystémiques.",
     "A Research Fellow at the Laboratory of Systematics, Herbaria and Botanical Museum of the National Floristic Centre (Faculty of Biosciences, Félix Houphouët-Boigny University), Dr KOUAMÉ Kra Frédéric is a member of the “Biodiversity and Ecosystem Services” research team. He works on developing integrated weed management methods for crops, as well as on the sustainable management of biodiversity and ecosystem services."
   ],
   "publications": [
     "Kouamé, K. F., Sylla, M. &amp; Touré, A. (2020). Influences des pratiques culturales sur le développement et les cycles phénologiques des adventices majeures du riz irrigué au Centre de la Côte d'Ivoire. <em>International Journal of Biological and Chemical Sciences</em>.",
-    "Kouamé, K. F., Touré, A., Kouadio, É. Y. G., Coulibaly, M. D. &amp; Cherif, M. (2022). Effet du degré d'enherbement sur l'infestation de la culture du maïs (<em>Zea mays</em> L., Poaceae) par les insectes ravageurs majeurs dans le Centre de la Côte d'Ivoire. <em>International Journal of Innovation and Scientific Research</em>."
+    "Kouamé, K. F., Touré, A., Kouadio, É. Y. G., Coulibaly, M. D. &amp; Cherif, M. (2022). Effet du degré d'enherbement sur l'infestation de la culture du maïs (<em>Zea mays</em> L., Poaceae) par les insectes ravageurs majeurs dans le Centre de la Côte d'Ivoire. <em>International Journal of Innovation and Scientific Research</em>.",
+    "Kouamé, K. F., Mangara, A., Baka, Y. R., Kouadio, É. Y. G., Sombo, R., Ouattara, D. &amp; N'Guessan, K. E. (2025). Revegetation of cleared sites at the Soubré hydroelectric dam (Southwestern Côte d'Ivoire) using the cover crop <em>Arachis repens</em> Handro. <em>American Journal of Plant Sciences</em>, 16(12), 1256-1266. <a href=\"https://doi.org/10.4236/ajps.2025.1612083\" target=\"_blank\" rel=\"noopener\">doi:10.4236/ajps.2025.1612083</a>"
   ],
-  "liens": [["ORCID", "https://orcid.org/0009-0009-5712-047X"], ["fredykouame@yahoo.fr", "mailto:fredykouame@yahoo.fr"]]
+  "liens": [
+    [
+      "ORCID",
+      "https://orcid.org/0009-0009-5712-047X"
+    ],
+    [
+      "fredykouame@yahoo.fr",
+      "mailto:fredykouame@yahoo.fr"
+    ]
+  ]
 }
